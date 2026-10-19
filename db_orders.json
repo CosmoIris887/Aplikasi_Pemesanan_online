@@ -1,0 +1,189 @@
+{
+  "orders": [
+    {
+      "orderId": "KB-20261008-0001",
+      "orderDate": "8 Oktober 2026 pukul 14.01",
+      "name": "COSMOWUWA9",
+      "email": "cosmowuwa9@gmail.com",
+      "phone": "081287062717",
+      "address": "Jalan Krysan 3 Blok Gk nomor 1 2B",
+      "notes": "-",
+      "deliveryMethod": "Pengantaran Kurir",
+      "items": [
+        {
+          "id": "bakso-sapi",
+          "name": "Bakso Sapi Kuah",
+          "variantName": null,
+          "price": 35000,
+          "quantity": 1,
+          "subtotal": 35000
+        }
+      ],
+      "totalAmount": 35000,
+      "status": "LUNAS (QRIS DOKU)",
+      "createdAt": "2026-10-08T07:01:18.861Z"
+    },
+    {
+      "orderId": "KB-20261008-0002",
+      "orderDate": "8 Oktober 2026 pukul 14.10",
+      "name": "COSMOWUWA9",
+      "email": "cosmowuwa9@gmail.com",
+      "phone": "081287062717",
+      "address": "aajida",
+      "notes": "-",
+      "deliveryMethod": "Pengantaran Kurir",
+      "items": [
+        {
+          "id": "mie-gomak",
+          "name": "Spaghetti Medan (Mie Gomak)",
+          "variantName": "Kuah Susu",
+          "price": 30000,
+          "quantity": 1,
+          "subtotal": 30000
+        }
+      ],
+      "totalAmount": 30000,
+      "status": "LUNAS (QRIS DOKU)",
+      "createdAt": "2026-10-08T07:10:50.214Z"
+    },
+    {
+      "orderId": "KB-20261008-0003",
+      "orderDate": "8 Oktober 2026 pukul 14.16",
+      "name": "COSMOWUWA9",
+      "email": "cosmowuwa9@gmail.com",
+      "phone": "081287062717",
+      "address": "Jalan Krysan 3",
+      "notes": "-",
+      "deliveryMethod": "Pengantaran Kurir",
+      "items": [
+        {
+          "id": "mie-gomak",
+          "name": "Spaghetti Medan (Mie Gomak)",
+          "variantName": "Kuah Susu",
+          "price": 30000,
+          "quantity": 1,
+          "subtotal": 30000
+        }
+      ],
+      "totalAmount": 30000,
+      "status": "LUNAS (QRIS DOKU)",
+      "createdAt": "2026-10-08T07:16:20.109Z"
+    },
+    {
+      "orderId": "KB-20261008-0004",
+      "orderDate": "8 Oktober 2026 pukul 14.23",
+      "name": "COSMOWUWA9",
+      "email": "cosmowuwa9@gmail.com",
+      "phone": "081287062717",
+      "address": "Jalan Krysan 3",
+      "notes": "-",
+      "deliveryMethod": "Pengantaran Kurir",
+      "items": [
+        {
+          "id": "cumi-asin",
+          "name": "Cumi Asin Sambal Balado",
+          "variantName": null,
+          "price": 45000,
+          "quantity": 1,
+          "subtotal": 45000
+        }
+      ],
+      "totalAmount": 45000,
+      "status": "LUNAS (QRIS DOKU)",
+      "createdAt": "2026-10-08T07:23:40.918Z"
+    },
+    {
+      "orderId": "KB-20261008-0005",
+      "orderDate": "8 Oktober 2026 pukul 14.30",
+      "name": "COSMOWUWA9",
+      "email": "cosmowuwa9@gmail.com",
+      "phone": "081287062717",
+      "address": "Jalan Jawa",
+      "notes": "-",
+      "deliveryMethod": "Ambil Sendiri di Kedai",
+      "items": [
+        {
+          "id": "paket-arsik",
+          "name": "Paket Nasi Ikan Mas Arsik",
+          "variantName": null,
+          "price": 30000,
+          "quantity": 1,
+          "subtotal": 30000
+        }
+      ],
+      "totalAmount": 30000,
+      "status": "LUNAS (QRIS DOKU)",
+      "createdAt": "2026-10-08T07:30:40.239Z"
+    },
+    {
+      "orderId": "KB-20261008-0006",
+      "orderDate": "8 Oktober 2026 pukul 14.41",
+      "name": "COSMOWUWA9",
+      "email": "cosmowuwa9@gmail.com",
+      "phone": "081287062717",
+      "address": "jalan krysan 3",
+      "notes": "-",
+      "deliveryMethod": "Diantar ke Rumah",
+      "items": [
+        {
+          "id": "paket-rendang",
+          "name": "Paket Nasi Rendang",
+          "variantName": null,
+          "price": 35000,
+          "quantity": 1,
+          "subtotal": 35000
+        }
+      ],
+      "totalAmount": 35000,
+      "status": "LUNAS (QRIS DOKU)",
+      "createdAt": "2026-10-08T07:41:07.108Z"
+    },
+    {
+      "orderId": "KB-20261008-0007",
+      "orderDate": "8 Oktober 2026 pukul 14.45",
+      "name": "COSMOWUWA9",
+      "email": "cosmowuwa9@gmail.com",
+      "phone": "081287062717",
+      "address": null,
+      "notes": "-",
+      "deliveryMethod": "Ambil Sendiri di Kedai",
+      "items": [
+        {
+          "id": "paket-babi-panggang",
+          "name": "Paket Nasi Babi Panggang",
+          "variantName": null,
+          "price": 40000,
+          "quantity": 1,
+          "subtotal": 40000
+        }
+      ],
+      "totalAmount": 40000,
+      "status": "LUNAS (QRIS DOKU)",
+      "createdAt": "2026-10-08T07:45:21.316Z"
+    },
+    {
+      "orderId": "KB-20261008-0008",
+      "orderDate": "8 Oktober 2026 pukul 14.45",
+      "name": "COSMOWUWA9",
+      "email": "cosmowuwa9@gmail.com",
+      "phone": "081287062717",
+      "address": "Jlan opuki",
+      "notes": "-",
+      "deliveryMethod": "Diantar ke Rumah",
+      "items": [
+        {
+          "id": "paket-babi-panggang",
+          "name": "Paket Nasi Babi Panggang",
+          "variantName": null,
+          "price": 40000,
+          "quantity": 1,
+          "subtotal": 40000
+        }
+      ],
+      "totalAmount": 40000,
+      "status": "LUNAS (QRIS DOKU)",
+      "createdAt": "2026-10-08T07:45:32.725Z"
+    }
+  ],
+  "lastCounter": 8
+}
